@@ -10,3 +10,6 @@ Phase 1: Play it as close to the original as possible
 - Church organs?
 
 Phase 2: Introduce variations, maybe rock, maybe house, (hip-hop?)
+
+Resources:
+- Source of piano notes/ chords https://www.youtube.com/watch?v=4y33h81phKU
