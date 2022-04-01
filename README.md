@@ -29,3 +29,6 @@ Not sure what's causing it but need to fix it. Someone gave me the idea that it 
 
 - I can also try downloading or making my own synth sound
 - I'm also looking for a grand piano type sound, but the `:piano` synth in Sonic Pi is a short signal, so it can't be sustained for too long.
+
+Added FX - reverb to the piano synth, it definitely creates a perceptible difference, but not sure if it's enough.
+Next TODO - find another synth online, which replicates the grand piano sound, and the soundwave is longer than 1 beat, so I can create the 'sustain pedal' effect of a piano
